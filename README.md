@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](https://i.ibb.co/grLJYx1/Screenshot.png)
+![](https://i.ibb.co/3MQDpTf/Screenshot.png)
 
 ## Hello! 👋
 
