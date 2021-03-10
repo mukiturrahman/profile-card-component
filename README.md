@@ -8,7 +8,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live here!](https://mukiturrahman.github.io/profile-card-component/)
 
 ### Built with ❤
 
